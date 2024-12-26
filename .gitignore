@@ -1,0 +1,7 @@
+.env
+.old/
+.ipynb_checkpoints/
+*/__pycache__/*
+__pycache__/*
+end_to_end_rag/tmp/
+*.pyc
