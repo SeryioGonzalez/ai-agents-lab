@@ -1,3 +1,3 @@
 ## Lab architecture
 
-![Lab architecture](images/lab.jpg)
+![Lab architecture](../images/lab.jpg)
